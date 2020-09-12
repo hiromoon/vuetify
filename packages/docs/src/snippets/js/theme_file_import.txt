@@ -2,7 +2,7 @@
 
 import Vue from 'vue'
 import Vuetify from 'vuetify/lib'
-import light from './theme'
+import light from './vuetify/theme'
 
 Vue.use(Vuetify)
 
